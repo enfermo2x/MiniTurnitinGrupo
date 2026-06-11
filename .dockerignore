@@ -1,0 +1,13 @@
+__pycache__
+.pytest_cache
+.venv
+venv
+env
+*.pyc
+*.pyo
+build
+dist
+.git
+.github
+data/
+reporte_temp.html
